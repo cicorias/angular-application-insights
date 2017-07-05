@@ -1,6 +1,7 @@
 {
-  "name": "@markpieszak/ng-application-insights",
-  "version": "2.3.0",
+  "name": "@ethereumex/angular-application-insights",
+  "version": "2.3.1",
+  "private": false,
   "scripts": {
     "lint": "tslint src/**/*.ts",
     "test": "tsc && karma start",
@@ -10,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MarkPieszak/angular-application-insights"
+    "url": "https://github.com/cicorias/angular-application-insights"
   },
   "author": {
-    "name": "Mark Pieszak",
-    "email": "mpieszak84@gmail.com"
+    "name": "Shawn Cicoria",
+    "email": "github@cicoria.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MarkPieszak/angular-application-insights/issues"
+    "url": "https://github.com/cicorias/angular-application-insights/issues"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
